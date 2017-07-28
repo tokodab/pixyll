@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Testimoni Pembeli
+title: Testimoni
+subtitle: Testimoni Pembeli
 permalink: /testimoni/
 ---
-
-# Testimoni Pembeli
