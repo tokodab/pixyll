@@ -1,14 +1,15 @@
 # Site settings
-title:       Pixyll
-email:       your_email@example.com
-author:      John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+title:       Toko Dab
+email:       tokodabonline@example.com
+author:      Tokodab
+description: ""
 baseurl:     ""
 url:         "https://tokodab.github.io"
 date_format: "%b %-d, %Y"
 header_pages:
- - about.md
- - contact.html
+ - cara-order.md
+ - kontak.md
+ - testimoni.md
 
 # Google services
 google_verification:
@@ -118,8 +119,9 @@ text:
 markdown:     kramdown
 redcarpet:
   extensions: ['smart', 'tables', 'with_toc_data']
-permalink:    pretty
+permalink:    /:title/
 paginate:     4
+paginate_path: "/blog/page:num/"
 sass:
   style: compressed
 gems:
