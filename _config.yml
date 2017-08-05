@@ -1,10 +1,10 @@
 # Site settings
 title:       Toko Dab
-email:       tokodabonline@example.com
+email:       tokodabonline@gmail.com
 author:      Tokodab
 description: ""
 baseurl:     ""
-url:         "https://tokodab.github.io"
+url:         "https://tokodab.com"
 date_format: "%b %-d, %Y"
 header_pages:
  - cara-order.md
