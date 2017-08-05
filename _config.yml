@@ -4,7 +4,7 @@ email:       tokodabonline@gmail.com
 author:      Tokodab
 description: ""
 baseurl:     ""
-url:         "http://tokodab.com"
+url:         "https://www.tokodab.com"
 date_format: "%b %-d, %Y"
 header_pages:
  - cara-order.md
