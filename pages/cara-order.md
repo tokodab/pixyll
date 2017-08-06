@@ -5,7 +5,7 @@ subtitle: Cara order di Toko Dab
 permalink: /cara-order/
 ---
 
-Cara order di Toko Taktis sangat mudah, bisa melalui website dengan mengklik tombol “Beli via Whatsapp” atau “Beli via FB Messenger” di halaman produk, ataupun langsung menghubungi customer service kami.
+Cara order di Tokodab.com bisa melalui website dengan mengklik tombol **“Beli via Whatsapp”** atau **“Beli via FB Messenger”** di halaman produk, ataupun langsung menghubungi lewat kontak.
 
 
 **KLIK link di bawah ini** untuk langsung menghubungi kami.
