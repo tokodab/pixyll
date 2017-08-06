@@ -7,9 +7,9 @@ baseurl:     ""
 url:         "http://tokodab.com"
 date_format: "%b %-d, %Y"
 header_pages:
- - cara-order.md
+ - cara-order.html
  - kontak.html
- - testimoni.md
+ - testimoni.html
 
 # Google services
 google_verification:
