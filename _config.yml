@@ -8,7 +8,7 @@ url:         "http://tokodab.com"
 date_format: "%b %-d, %Y"
 header_pages:
  - cara-order.md
- - kontak.md
+ - kontak.html
  - testimoni.md
 
 # Google services
@@ -25,7 +25,7 @@ bing_verification:
 animated:             false
 show_related_posts:   false
 show_post_footers:    false
-show_social_icons:    true
+show_social_icons:    false
 ajaxify_contact_form: false
 enable_mathjax: false
 extended_fonts: false
