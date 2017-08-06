@@ -8,8 +8,8 @@ url:         "http://tokodab.com"
 date_format: "%b %-d, %Y"
 header_pages:
  - pages/cara-order.md
- - pages/kontak.html
- - pages/testimoni.html
+ - pages/kontak.md
+ - pages/testimoni.md
 
 # Google services
 google_verification:
