@@ -46,7 +46,7 @@ img {
     @extend %clearfix;
     }
      
-[class*='column-'] {
+[class*='col-'] {
     float: left;
     padding: 1em;
     width: 100%;
