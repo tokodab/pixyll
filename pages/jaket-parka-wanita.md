@@ -5,18 +5,20 @@ subtitle: Jaket Parka Wanita
 permalink: /jaket-parka-wanita/
 ---
 
-Udah siap buat traveling? Jaket parka ini pas banget buat kamu yang hobi traveling. Jaket ini juga cocok juga untuk kegiatan harian kamu loh.
+<p>Udah siap buat traveling? Jaket parka ini pas banget buat kamu yang hobi traveling. Jaket ini juga cocok juga untuk kegiatan harian kamu loh.</p>
 
 
-- <i class="fa fa-check fa-2x green" aria-hidden="true"></i> **Bahan lembut tidak panas, cocok dipakai harian.**
-- <i class="fa fa-check fa-2x green" aria-hidden="true"></i> **Ada 2 kantong depan.**
-- <i class="fa fa-check fa-2x green" aria-hidden="true"></i> **Model terbaru, keren dipakai kemana saja.**
+<p><i class="fa fa-check fa-2x green" aria-hidden="true"></i> Bahan lembut tidak panas, cocok dipakai harian.</p>
+<p><i class="fa fa-check fa-2x green" aria-hidden="true"></i> Ada 2 kantong depan.</p>
+<p><i class="fa fa-check fa-2x green" aria-hidden="true"></i> Model terbaru, keren dipakai kemana saja.</p>
 
-### STOK WARNA READY :
-- MAROON
-- TOSCA
-- VIOLET
-- GREEN ARMY
-- PINK PEACH
+<h3>STOK WARNA READY :</h3>
+<ul>
+	<li>MAROON</li>
+	<li>TOSCA</li>
+	<li>VIOLET</li>
+	<li>GREEN ARMY</li>
+	<li>PINK PEACH</li>
+</ul>
 
-<i class="fa fa-camera-retro fa-3x light-pink"></i> ### GALLERY
+<i class="fa fa-camera-retro fa-3x light-pink"></i>&nbsp; <h3>GALLERY</h3>
