@@ -5,6 +5,23 @@ subtitle: Jaket Parka Wanita
 permalink: /jaket-parka-wanita/
 ---
 
+<div class="row">
+	<div class="col-6">
+		<img src="/images/jaket-parka-wanita-green-army.jpg">
+	</div>
+	<div class="col-6 center">
+		<div class="h2 yellow mt1"> Rp. 140.000,- </div>
+		<p><strong>Pesan Sekarang</strong></p>
+		<p>Klik tombol di bawah ini</p>
+		<p class="h2 green">
+			<a class="button button-big" href="https://api.whatsapp.com/send?phone=6281330600218&amp;text=Halo%20tokodab.com" title="Klik untuk chat WA"><i class="fa fa-whatsapp fa-2x">&nbsp; WhatsApp</a>
+		</p>
+		<p class="h2 blue">
+			<a class="button button-big" href="https://m.me/tokodab" title="Klik untuk chat WA"><i class="fa fa-facebook-square fa-2x">&nbsp; Facebook</a>
+		</p>
+	</div>
+</div>
+
 <p>Udah siap buat traveling? Jaket parka ini pas banget buat kamu yang hobi traveling. Jaket ini juga cocok juga untuk kegiatan harian kamu loh.</p>
 
 
@@ -12,7 +29,7 @@ permalink: /jaket-parka-wanita/
 <p><i class="fa fa-check fa-2x green" aria-hidden="true"></i> Ada 2 kantong depan.</p>
 <p><i class="fa fa-check fa-2x green" aria-hidden="true"></i> Model terbaru, keren dipakai kemana saja.</p>
 
-<h3>STOK WARNA READY :</h3>
+<h3>PILIHAN WARNA :</h3>
 <ul>
 	<li>Maroon</li>
 	<li>Tosca</li>
