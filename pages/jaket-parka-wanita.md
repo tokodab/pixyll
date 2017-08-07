@@ -21,4 +21,4 @@ permalink: /jaket-parka-wanita/
 	<li>PINK PEACH</li>
 </ul>
 
-<i class="fa fa-camera-retro fa-3x light-pink"></i>&nbsp; <h3>GALLERY</h3>
+<h3><i class="fa fa-camera-retro fa-3x light-pink"></i>&nbsp; GALLERY</h3>
