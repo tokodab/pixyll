@@ -14,11 +14,11 @@ permalink: /jaket-parka-wanita/
 
 <h3>STOK WARNA READY :</h3>
 <ul>
-	<li>MAROON</li>
-	<li>TOSCA</li>
-	<li>VIOLET</li>
-	<li>GREEN ARMY</li>
-	<li>PINK PEACH</li>
+	<li>Maroon</li>
+	<li>Tosca</li>
+	<li>Violet</li>
+	<li>Green Army</li>
+	<li>Pink Peach</li>
 </ul>
 
-<h3><i class="fa fa-camera-retro fa-3x light-pink"></i>&nbsp; GALLERY</h3>
+<h3><i class="fa fa-camera-retro fa-2x light-pink"></i>&nbsp; GALLERY</h3>
