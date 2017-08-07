@@ -22,3 +22,23 @@ permalink: /jaket-parka-wanita/
 </ul>
 
 <h3><i class="fa fa-camera-retro purple"></i>&nbsp; GALLERY</h3>
+
+<div class="row">
+	<div class="col-4">
+		<img src="/images/jaket-parka-wanita-green-army.jpg">
+	</div>
+	<div class="col-4">
+		<img src="/images/jaket-parka-wanita-maroon.jpg">
+	</div>
+	<div class="col-4">
+		<img src="/images/jaket-parka-wanita-maroon-2.jpg">
+	</div></div>
+<div class="row">
+	<div class="col-4">
+		<img src="/images/jaket-parka-wanita-pink-peach.jpg">
+	</div>
+	<div class="col-4">
+		<img src="/images/jaket-parka-wanita-tosca.jpg">
+	</div>
+	<div class="col-4"></div>
+</div>
