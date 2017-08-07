@@ -10,14 +10,14 @@ permalink: /jaket-parka-wanita/
 		<img src="/images/jaket-parka-wanita-green-army.jpg">
 	</div>
 	<div class="col-6 center">
-		<div class="h2 yellow mt1"> Rp. 140.000,- </div>
+		<p class="h2 yellow mt1"> Rp. 140.000,- </p>
 		<p><strong>Pesan Sekarang</strong></p>
 		<p>Klik tombol di bawah ini</p>
 		<p class="h2 green">
-			<a class="button button-big" href="https://api.whatsapp.com/send?phone=6281330600218&amp;text=Halo%20tokodab.com" title="Klik untuk chat WA"><i class="fa fa-whatsapp fa-2x">&nbsp; WhatsApp</a>
+			<a class="button button-big" href="https://api.whatsapp.com/send?phone=6281330600218&amp;text=Halo%20tokodab.com" title="Klik untuk chat WA"><i class="fa fa-whatsapp fa-2x"></i>&nbsp; WhatsApp</a>
 		</p>
 		<p class="h2 blue">
-			<a class="button button-big" href="https://m.me/tokodab" title="Klik untuk chat WA"><i class="fa fa-facebook-square fa-2x">&nbsp; Facebook</a>
+			<a class="button button-big" href="https://m.me/tokodab" title="Klik untuk chat WA"><i class="fa fa-facebook-square fa-2x"></i>&nbsp; Facebook</a>
 		</p>
 	</div>
 </div>
