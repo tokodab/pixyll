@@ -20,15 +20,8 @@
 
 {% if site.fb_pixel %}
 <script>
-
-  var klikPesan = document.getElementById('klik-pesan');
-  klikPesan.addEventListener(
-    'click', 
-    function() { 
-      fbq('track', 'klikPesan');
-      console.log("klikPesan Test");
-    },
-    false
-  );
+function klikPesan () {
+	fbq('track', 'klikPesan');
+}
 </script>
 {% endif %}
