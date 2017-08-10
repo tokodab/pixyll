@@ -2,7 +2,7 @@
 layout: page
 title: Jaket Parka Wanita
 subtitle: Jaket Parka Wanita
-permalink: /jaket-parka-wanita/
+permalink: /detail-jaket-parka-wanita/
 ---
 
 <div class="row">
