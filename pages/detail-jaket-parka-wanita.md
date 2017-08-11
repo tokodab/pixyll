@@ -3,6 +3,7 @@ layout: page
 title: Jaket Parka Wanita
 subtitle: Jaket Parka Wanita
 permalink: /detail-jaket-parka-wanita/
+description: Udah siap buat traveling? Jaket parka ini pas banget buat kamu yang hobi traveling. Jaket ini juga cocok juga untuk kegiatan harian kamu loh.
 ---
 
 <div class="row">
