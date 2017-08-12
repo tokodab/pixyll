@@ -32,24 +32,27 @@ description: Udah siap buat traveling? Jaket parka ini pas banget buat kamu yang
 	<li>Tosca</li>
 	<li>Violet</li>
 	<li>Green Army</li>
-	<li>Pink Peach</li>
+	<li>Navy</li>
 </ul>
+
+<p>Material : canvas original</p>
+<p>Size : L( L panjang 71, lebar 54 )</p>
 
 <h3><i class="fa fa-camera-retro purple"></i>&nbsp; GALLERY</h3>
 
 <div class="row">
 	<div class="col-4">
-		<img src="/images/jaket-parka-wanita-green-army.jpg">
+		<img src="/images/jaket-parka-wanita-green-army2.jpg">
 	</div>
 	<div class="col-4">
 		<img src="/images/jaket-parka-wanita-maroon.jpg">
 	</div>
 	<div class="col-4">
-		<img src="/images/jaket-parka-wanita-maroon-2.jpg">
+		<img src="/images/jaket-parka-wanita-navy.jpg">
 	</div></div>
 <div class="row">
 	<div class="col-4">
-		<img src="/images/jaket-parka-wanita-pink-peach.jpg">
+		<img src="/images/jaket-parka-wanita-green-army.jpg">
 	</div>
 	<div class="col-4">
 		<img src="/images/jaket-parka-wanita-tosca.jpg">
