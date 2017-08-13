@@ -48,14 +48,14 @@ description: Udah siap buat traveling? Jaket parka ini pas banget buat kamu yang
 		<img src="/images/jaket-parka-wanita-maroon.jpg">
 	</div>
 	<div class="col-4">
-		<img src="/images/jaket-parka-wanita-navy.jpg">
+		<img src="/images/jaket-parka-wanita-navy2.jpg">
 	</div></div>
 <div class="row">
 	<div class="col-4">
-		<img src="/images/jaket-parka-wanita-green-army.jpg">
+		<img src="/images/jaket-parka-wanita-purple2.jpg">
 	</div>
 	<div class="col-4">
-		<img src="/images/jaket-parka-wanita-tosca.jpg">
+		<img src="/images/jaket-parka-wanita-tosca2.jpg">
 	</div>
 	<div class="col-4"></div>
 </div>
