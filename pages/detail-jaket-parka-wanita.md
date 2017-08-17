@@ -8,10 +8,10 @@ description: Udah siap buat traveling? Jaket parka ini pas banget buat kamu yang
 
 <div class="row">
 	<div class="col-6">
-		<img src="/images/jaket-parka-wanita-preview.jpg">
+		<img src="/images/jaket-parka-wanita-preview2.jpg">
 	</div>
 	<div class="col-6 center">
-		<p class="h2 red mt1"> Rp. 140.000,- </p>
+		<p class="h2 red mt1"> Rp. 164.000,- </p>
 		<p><strong>Pesan Sekarang</strong></p>
 		<p>Klik tombol di bawah ini</p>
 		<p><i class="fa fa-whatsapp fa-lg green" aria-hidden="true"></i>&nbsp; WA : <a href="https://api.whatsapp.com/send?phone=6281330600218&amp;text=Halo%20tokodab.com" onclick="klikPesan()">0813-3060-0218</a></p>
@@ -28,7 +28,6 @@ description: Udah siap buat traveling? Jaket parka ini pas banget buat kamu yang
 
 <h3>PILIHAN WARNA :</h3>
 <ul>
-	<li>Maroon</li>
 	<li>Tosca</li>
 	<li>Violet</li>
 	<li>Green Army</li>
@@ -60,7 +59,7 @@ description: Udah siap buat traveling? Jaket parka ini pas banget buat kamu yang
 	<div class="col-4"></div>
 </div>
 
-<p class="h2 red mt1"> Rp. 140.000,- </p>
+<p class="h2 red mt1"> Rp. 164.000,- </p>
 <p><strong>Pesan Sekarang</strong></p>
 <p>Klik tombol di bawah ini</p>
 <p><i class="fa fa-whatsapp fa-lg green" aria-hidden="true"></i>&nbsp; WA : <a href="https://api.whatsapp.com/send?phone=6281330600218&amp;text=Halo%20tokodab.com" onclick="klikPesan()">0813-3060-0218</a></p>
